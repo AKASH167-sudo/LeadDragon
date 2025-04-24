@@ -4,7 +4,7 @@ A Chrome Extension you can use to save the links to different web pages you vist
 
 ## 🚀 Installation
 
-1. Download the latest version from the [Releases page](https://github.com/yourusername/your-repo-name/releases).
+1. Download the latest version from the [Releases page](https://github.com/AKASH167-sudo/LeadDragon/releases/tag/v1.0.0).
 2. Unzip the folder.
 3. Open Chrome and go to `chrome://extensions/`.
 4. Enable **Developer Mode** (top right).
@@ -12,4 +12,4 @@ A Chrome Extension you can use to save the links to different web pages you vist
 
 Enjoy!
 
-[![Download](https://img.shields.io/github/v/release/yourusername/your-repo-name?label=Download)](https://github.com/yourusername/your-repo-name/releases/latest)
+[![Download](https://github.com/AKASH167-sudo/LeadDragon/releases/tag/v1.0.0)
